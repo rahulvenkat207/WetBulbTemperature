@@ -1,0 +1,8 @@
+streamlit
+math
+numpy
+datetime
+requests
+pandas
+seaborn
+matplotlib
